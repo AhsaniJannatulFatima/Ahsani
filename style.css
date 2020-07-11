@@ -1,0 +1,86 @@
+
+.background{
+ background-color: black;
+ text-align: center; 
+ padding: 30px;
+ color: rgb(78, 71, 71);
+
+}
+.background img{
+    float: left;
+}
+.black{
+    color: rgb(67, 76, 94);
+}
+.fashion{
+    text-align: center;
+
+}
+.container{
+    margin-bottom: 100px;
+    margin-top: 100px;
+} 
+ .orange-bg{
+    background-color: #d0e9f5;
+    border-radius: 10px;
+}
+.carousel-item{
+    padding: 20px 40px;
+   
+}
+.carousel-item img{
+    
+    width: 100px;
+}
+.buy-now-button{
+    background-color: rgb(88, 162, 180);
+      color: #fff;
+      border-radius: 8px;
+      padding: 9px 25px;
+      cursor: pointer;
+    }
+.cat1, .cat2, .cat3, .cat4{
+   
+    padding:10px 20px;
+    border-radius: 30px;
+    
+}
+.cat1{
+    background-color: rgb(95, 189, 131);
+    height: 160px;
+}
+.cat2{
+    background-color: darkturquoise;
+    height: 160px;
+}
+.cat3{
+    background-color: rgb(128, 158, 46);
+    height: 160px;
+}
+.cat4{
+    background-color: hotpink;
+    height: 160px;
+}
+.blacks{
+    text-align: center;
+    color: rgb(22, 4, 34);
+    margin-bottom: 60px;
+}
+.blackss{
+    text-align: center;
+    color: lawngreen;
+}
+.blackses{
+    text-align: center;
+    color: rgb(24, 24, 124);
+}
+.link-button{
+    background-color: cadetblue;
+    padding: 10px;
+    color: rgb(21, 21, 107);
+    border-radius: 20px;
+}
+.foot{
+    text-align: center;
+    color: rgb(16, 53, 53);
+}
