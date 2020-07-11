@@ -38,8 +38,9 @@
       border-radius: 8px;
       padding: 9px 25px;
       cursor: pointer;
+      border-bottom: darkcyan;
     }
-.cat1, .cat2, .cat3, .cat4{
+.cat1, .cat2, .cat3{
    
     padding:10px 20px;
     border-radius: 30px;
@@ -47,15 +48,15 @@
 }
 .cat1{
     background-color: rgb(95, 189, 131);
-    height: 200px;
+    height: 230px;
 }
 .cat2{
     background-color: darkturquoise;
-    height: 200px;
+    height: 230px;
 }
 .cat3{
-    background-color: rgb(128, 158, 46);
-    height: 200px;
+    background-color: rgb(233, 128, 186);
+    height: 230px;
 }
 
 .blacks{
