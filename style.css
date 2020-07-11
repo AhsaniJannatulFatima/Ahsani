@@ -47,20 +47,17 @@
 }
 .cat1{
     background-color: rgb(95, 189, 131);
-    height: 160px;
+    height: 200px;
 }
 .cat2{
     background-color: darkturquoise;
-    height: 160px;
+    height: 200px;
 }
 .cat3{
     background-color: rgb(128, 158, 46);
-    height: 160px;
+    height: 200px;
 }
-.cat4{
-    background-color: hotpink;
-    height: 160px;
-}
+
 .blacks{
     text-align: center;
     color: rgb(22, 4, 34);
